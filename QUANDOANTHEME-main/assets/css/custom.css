@@ -1,0 +1,17 @@
+.work-box1 {
+    margin-bottom: 30px;
+}
+
+.work-box1 img {
+    width: 370px;
+    height: 370px;
+    object-fit: cover;
+}
+ .logo-header {
+      width: 100px;
+      height: 70px;
+      object-fit: cover;
+ }
+ .footer-nav {
+        display: list-item !important;
+ }

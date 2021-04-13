@@ -15,7 +15,7 @@ define('ASSETS', get_theme_file_uri());
 // INCLUDES
 require_once(LIBRARY ."/vendor/autoload.php");
 require_once("core/init.php");
-
+add_theme_support('post-thumbnails');
 // HOOK ACTION - FILTER
 
 
